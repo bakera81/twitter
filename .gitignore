@@ -1,7 +1,18 @@
+# Secret!
+twitter_secret.json
+# Media downloads
+youtube-dl
+gallery-dl
+resources
+# Export from Twitter privacy settings
+*_export
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
+.vscode
 
 # C extensions
 *.so
